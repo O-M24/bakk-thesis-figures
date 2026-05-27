@@ -35,4 +35,8 @@ This repository holds the figures of the thesis in full resolution, so the diagr
 | Fig. 5.18 — CEN Undesired, Level 4 (Execution) | `figures/cenundesired_execution.png` |
 | Fig. 6.1 — End-to-end traceability for the lift disruption scenario | `figures/traceability_lift_scenario.png` |
 
-Editable draw.io sources are provided for Fig. 3.1 and Fig. 5.2 in `sources/`.
+## Editable sources (`sources/`)
+
+- **`Warehouse_procando_v2.drawio`** — the complete model set: all PAN, CEN, and IDEF0 diagrams (19 model tabs) in one editable file. Open it at [app.diagrams.net](https://app.diagrams.net) and zoom in for sharp text at any size.
+- `IS-Research-Framework-adapted.drawio` — source for Fig. 3.1.
+- `solution-approach-overview.drawio` — source for Fig. 5.2.
